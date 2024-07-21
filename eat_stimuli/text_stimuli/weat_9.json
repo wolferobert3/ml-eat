@@ -1,0 +1,41 @@
+{
+    "A": [
+        "impermanent",
+        "unstable",
+        "variable",
+        "fleeting",
+        "short-term",
+        "brief",
+        "occasional"
+    ],
+    "B": [
+        "stable",
+        "always",
+        "constant",
+        "persistent",
+        "chronic",
+        "prolonged",
+        "forever"
+    ],
+    "X": [
+        "sad",
+        "hopeless",
+        "gloomy",
+        "tearful",
+        "miserable",
+        "depressed"
+    ],
+    "Y": [
+        "sick",
+        "illness",
+        "influenza",
+        "disease",
+        "virus",
+        "cancer"
+    ],
+    "eat_name": "Temporary vs. Permanent, Mental vs. Physical",
+    "A_name": "Temporary",
+    "B_name": "Permanent",
+    "X_name": "Mental",
+    "Y_name": "Physical"
+}

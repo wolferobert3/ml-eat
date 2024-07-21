@@ -1,0 +1,47 @@
+{
+    "A": [
+        "executive",
+        "management",
+        "professional",
+        "corporation",
+        "salary",
+        "office",
+        "business",
+        "career"
+    ],
+    "B": [
+        "home",
+        "parents",
+        "children",
+        "family",
+        "cousins",
+        "marriage",
+        "wedding",
+        "relatives"
+    ],
+    "X": [
+        "John",
+        "Paul",
+        "Mike",
+        "Kevin",
+        "Steve",
+        "Greg",
+        "Jeff",
+        "Bill"
+    ],
+    "Y": [
+        "Amy",
+        "Joan",
+        "Lisa",
+        "Sarah",
+        "Diana",
+        "Kate",
+        "Ann",
+        "Donna"
+    ],
+    "eat_name": "Career vs. Domestic, Male Name vs. Female Name",
+    "A_name": "Career",
+    "B_name": "Domestic",
+    "X_name": "Male Name",
+    "Y_name": "Female Name"
+}

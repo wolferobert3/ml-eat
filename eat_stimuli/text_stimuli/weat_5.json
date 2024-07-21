@@ -1,0 +1,63 @@
+{
+    "A": [
+        "joy",
+        "love",
+        "peace",
+        "wonderful",
+        "pleasure",
+        "friend",
+        "laughter",
+        "happy"
+    ],
+    "B": [
+        "agony",
+        "terrible",
+        "horrible",
+        "nasty",
+        "evil",
+        "war",
+        "awful",
+        "failure"
+    ],
+    "X": [
+        "Brad",
+        "Brendan",
+        "Geoffrey",
+        "Greg",
+        "Brett",
+        "Matthew",
+        "Neil",
+        "Todd",
+        "Allison",
+        "Anne",
+        "Carrie",
+        "Emily",
+        "Jill",
+        "Laurie",
+        "Meredith",
+        "Sarah"
+    ],
+    "Y": [
+        "Darnell",
+        "Hakim",
+        "Jermaine",
+        "Kareem",
+        "Jamal",
+        "Leroy",
+        "Rasheed",
+        "Tyrone",
+        "Aisha",
+        "Ebony",
+        "Keisha",
+        "Kenya",
+        "Lakisha",
+        "Latoya",
+        "Tamika",
+        "Tanisha"
+    ],
+    "eat_name": "Pleasant 2 vs. Unpleasant 2, European American 2 vs. African American 2",
+    "A_name": "Pleasant 2",
+    "B_name": "Unpleasant 2",
+    "X_name": "European American 2",
+    "Y_name": "African American 2"
+}

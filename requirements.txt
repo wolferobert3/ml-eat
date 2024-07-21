@@ -1,0 +1,8 @@
+matplotlib
+pandas
+pillow
+scipy
+seaborn
+torch
+torchtext
+transformers

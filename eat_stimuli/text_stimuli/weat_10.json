@@ -1,0 +1,47 @@
+{
+    "A": [
+        "joy",
+        "love",
+        "peace",
+        "wonderful",
+        "pleasure",
+        "friend",
+        "laughter",
+        "happy"
+    ],
+    "B": [
+        "agony",
+        "terrible",
+        "horrible",
+        "nasty",
+        "evil",
+        "war",
+        "awful",
+        "failure"
+    ],
+    "X": [
+        "Tiffany",
+        "Michelle",
+        "Cindy",
+        "Kristy",
+        "Brad",
+        "Eric",
+        "Joey",
+        "Billy"
+    ],
+    "Y": [
+        "Ethel",
+        "Bernice",
+        "Gertrude",
+        "Agnes",
+        "Cecil",
+        "Wilbert",
+        "Mortimer",
+        "Edgar"
+    ],
+    "eat_name": "Pleasant 2 vs. Unpleasant 2, Young vs. Old",
+    "A_name": "Pleasant 2",
+    "B_name": "Unpleasant 2",
+    "X_name": "Young",
+    "Y_name": "Old"
+}
