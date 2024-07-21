@@ -20,7 +20,7 @@ Please cite the following version of our paper, from the AIES proceedings:
 This work draws on prior research in embedding association tests, implicit bias, and computational social science more broadly. Below are a few essential resources for understanding the context of this research:
 
 - [https://www.science.org/doi/10.1126/science.aal4230](**https://www.science.org/doi/10.1126/science.aal4230**): Caliskan et al.'s foundational work demonstrating the replication of tests of implicit bias in word embeddings using the WEAT.
-- [https://github.com/ryansteed/ieat](**https://github.com/ryansteed/ieat**): The github repository for Steed et al.'s extension of the WEAT to unsupervised image embeddings such as those produced by iGPT.
+- [https://github.com/ryansteed/ieat](**https://github.com/ryansteed/ieat**): The github repository for Steed et al.'s extension of the WEAT to unsupervised image embeddings such as those produced by iGPT. Refer to this for image stimuli used in the present work.
 - [https://pytorch.org/text/stable/index.html](**https://pytorch.org/text/stable/index.html**): Documentation for the torchtext library, which is used extensively in this repository for empirical analysis of word embedding associations.
 - [https://github.com/williamleif/histwords](**https://github.com/williamleif/histwords**): The github repository for Leif et al.'s HistWords embeddings, an great resource for CSS research that includes decade-by-decade diachronic word embeddings over 200 years in several languages.
 - [https://nlp.stanford.edu/projects/glove/](**https://nlp.stanford.edu/projects/glove/**): An introduction to the GloVe embeddings with useful information about training a model on a custom corpus, and using it to compare word similarities.
