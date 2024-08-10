@@ -11,7 +11,7 @@ The requirements file includes the libraries needed to run the analyses. We reco
 
 ### 3. Paper & Citation
 
-Please cite the following version of our paper, from the AIES proceedings:
+Below follows the information to cite our paper:
 
 ```bibtex
 @article{wolfe2024ml,
