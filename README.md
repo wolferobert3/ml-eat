@@ -1,5 +1,5 @@
 # ML-EAT Repository
-This is the code repository for the AIES'24 paper ***ML-EAT: A Multilevel Embedding Association Test  for Interpretable and Transparent Social Science***, available at [placeholder](placeholder).
+This is the code repository for the AIES'24 paper ***ML-EAT: A Multilevel Embedding Association Test  for Interpretable and Transparent Social Science***, available at [https://arxiv.org/pdf/2408.01966](https://arxiv.org/pdf/2408.01966).
 
 ### 1. Structure
 
@@ -13,7 +13,14 @@ The requirements file includes the libraries needed to run the analyses. We reco
 
 Please cite the following version of our paper, from the AIES proceedings:
 
-> TBD
+```bibtex
+@article{wolfe2024ml,
+  title={ML-EAT: A Multilevel Embedding Association Test for Interpretable and Transparent Social Science},
+  author={Wolfe, Robert and Hiniker, Alexis and Howe, Bill},
+  journal={arXiv preprint arXiv:2408.01966},
+  year={2024}
+}
+```
 
 ### 4. Other Resources
 
